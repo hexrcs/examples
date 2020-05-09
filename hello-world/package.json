@@ -10,7 +10,7 @@
     "jest": "25.4.0",
     "jest-environment-node": "25.4.0",
     "prettier": "2.0.4",
-    "ts-jest": "25.4.0"
+    "ts-jest": "25.5.1"
   },
   "scripts": {
     "clean": "rm -rf dist",
