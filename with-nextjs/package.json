@@ -13,7 +13,7 @@
     "deploy:prod": "now --prod"
   },
   "dependencies": {
-    "next": "9.3.5",
+    "next": "9.4.0",
     "nexus": "^0.21.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
